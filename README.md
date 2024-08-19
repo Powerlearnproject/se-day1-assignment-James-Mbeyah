@@ -5,7 +5,7 @@ Software Engineering Day1 Assignment
 #Part 1: Introduction to Software Engineering
 
 Explain what software engineering is and discuss its importance in the technology industry.
-Software engineering follows a process, for designing, developing, testing and maintaining software. It applies engineering principles to create efficient and user friendly products. In the tech industry software engineering plays a role in building systems methodically to minimize errors enhance quality and streamline development, for scalability.
+Software engineering follows a process, for designing, developing, testing, and maintaining software. It applies engineering principles to create efficient and user-friendly products. In the tech industry software engineering plays a role in building systems methodically to minimize errors enhance quality and streamline development, for scalability.
 
 
 Identify and describe at least three key milestones in the evolution of software engineering.
@@ -20,7 +20,7 @@ Deployment: Releasing the software to users.
 Maintenance: Ongoing support and updates to address issues or add new features
 
 Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
-The Waterfall Model is a linear and step, by step method is followed where each stage needs to be finished before moving on to the one. This method is well documented has a structure. Works well for projects with clearly defined requirements.
+The Waterfall Model is a linear and step-by-step method where each stage needs to be finished before moving on to the next. This method is well documented and has a structure. Works well for projects with clearly defined requirements.
 For example in the case of developing software for a setting where requirements are not expected to change.
 
 Agile Methodology;
@@ -28,7 +28,7 @@ A progressive approach that allows for adaptability and modifications throughout
 For instance when creating an app, for consumers where user feedback is consistently integrated.
 
 Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
-In a tech team the software developer writes and maintains code adds features, troubleshoots issues and makes sure the software functions smoothly. They collaborate closely with colleagues to grasp project needs and create software solutions.
+In a tech team the software developer writes and maintains code adds features, troubleshoots issues, and makes sure the software functions smoothly. They collaborate closely with colleagues to grasp project needs and create software solutions.
 
 The quality assurance engineer focuses on testing the software to guarantee it meets standards and requirements. They pinpoint any flaws report them and collaborate with developers to fix problems before the release.
 
@@ -46,20 +46,20 @@ Example: Git
 What are some common challenges faced by software engineers? Provide strategies to overcome these challenges.
 Scope Creep: Delays and budget overruns may arise from growing project requirements that are never ending.
 Strategy: Put in place rigid change management processes, and prioritize features as per business value.
-Technical Debt: A build up of code that is poorly written, needing reworking at a later date.
+Technical Debt: A build-up of code that is poorly written, needing reworking at a later date.
 Strategy: Engage in regular code restructuring and rank good coding during development.
 Balancing Innovation with Stability: The introduction of new technologies may disrupt the stability of old systems.
-Strategy: Ensure full testing and gradual roll out for system integrity while incorporating new technologies.
+Strategy: Ensure full testing and gradual rollout for system integrity while incorporating new technologies.
 
 Explain the different types of testing (unit, integration, system, and acceptance) and their importance in software quality assurance.
 Unit Testing: Testing individual parts or elements to check if they work as planned.
-Importance: Assists in early bug detection during development phase.
+Importance: Assists in early bug detection during the development phase.
 
 Integration Testing: Checking how different units of a program interact when combined together.
 Importance: It validates that the system is working as a whole and that all its components are harmonized fully.
 
 System Testing: Test the entire system to make sure it meets the specifications given.
-Importance: Validates how the entire system functions under real-life production environment.
+Importance: Validates how the entire system functions in a real-life production environment.
 
 Acceptance Testing: Verifying if the software complies with user requirements and business objectives.
 Importance: Confirms that users’ goals and stakeholders' expectations are met by this program.
